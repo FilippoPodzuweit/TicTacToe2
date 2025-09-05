@@ -1,3 +1,5 @@
+package TicTacToe;
+
 public class TicTacToe {
     private char currentPlayer;
     private Board board;
